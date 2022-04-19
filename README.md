@@ -29,7 +29,7 @@
 - Trello review
 - Task update with Slack
 
-## Conflict Plan
+## Communication Plan
 
 1. What hours will you be available to communicate?
 
@@ -59,6 +59,28 @@
 7. How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
 - Being respectful
+
+## Conflict Plan
+
+1. What will be your group’s process to resolve conflict, when it arises?
+
+- Take a break / step away / breathe / Speak with someone
+ 
+2. What will your team do if one person is taking over the project and not letting the other members contribute?
+
+- Communicate 
+
+3. How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
+
+- Daily stand-ups
+
+4. How will you raise concerns to members who are not adequately contributing?
+
+- Communication and paired programming
+
+5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+
+- Taking a break, stepping away, and if needed placing team members on separate sides of the project
 
 ## Work Plan
 
