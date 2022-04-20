@@ -47,7 +47,7 @@
 
 - Users account obtains badges per wins and creature submitions
 
-_ API (random name generator)
+- API (random name generator)
 
 1. What problem or pain point does it solve?
 
