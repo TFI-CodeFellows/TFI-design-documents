@@ -61,3 +61,32 @@ _ API (random name generator)
 3. What is the minimum required for you to present on your demo day?
 
 - Doodle a bobgoblin, submit it, you can choose to fight another bobgoblin. Also a leaderboard.
+
+## Name of Project:
+
+- Mxer
+
+## Summary of idea:
+
+- Collection of cocktails where users can save cocktail recipes
+  - Add on new steps, start from basic recipes, customize your recipes (CREATE, READ)
+  - Store your own favorites
+  - Update your custom cocktail recipes or delete them (UPDATE, DELETE)
+  
+
+1. What problem or pain point does it solve?
+
+  - Easy way to imagine up and get into custom cocktail making
+  - A nice organized place to keep these recipes, building your collection of drinks that turned out well
+
+2. Minimum Viable Product (MVP) definition.
+
+- Display cocktail recipes from API
+- Search cocktail recipes
+- Profile, create read update and delete cocktail recipes.
+
+3. What is the minimum required for you to present on your demo day?
+
+- Display cocktail recipes from API
+- Search cocktail recipes
+- Add and delete recipe to favorites
